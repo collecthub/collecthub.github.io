@@ -38,7 +38,7 @@
         "en": "A timer and stopwatch to organize your time and sessions."
       },
       "url": "https://tempo.collect-hub-all.workers.dev/",
-      "icon": ""
+      "icon": "https://tempo.collect-hub-all.workers.dev/icon-192.png"
     }
   ]
 }
