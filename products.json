@@ -41,4 +41,12 @@
       "icon": "https://tempo.collect-hub-all.workers.dev/icon-192.png"
     }
   ]
+},
+  {
+    "id": "collect-smart-timer",
+    "type": "web",
+    "name": { "ar": "مؤقت كوليكت الذكي", "en": "Collect Smart Timer" },
+    "desc": { "ar": "مؤقت تركيز مجاني يساعدك على إنجاز مهامك.", "en": "A free focus timer to help you get your tasks done." },
+    "url": "https://collect-smart-timer.pages.dev/",
+    "icon": "https://collect-smart-timer.pages.dev/assets/images/logo-mark.png"
 }
