@@ -3,34 +3,60 @@
     {
       "id": "mizara",
       "type": "web",
-      "name": { "ar": "ميزارا", "en": "MIZARA" },
-      "desc": { "ar": "تسعير الحلويات والمعجنات: التكلفة والسعر والربح لكل منتج.", "en": "Pricing for dessert makers: cost, price and profit for every item." },
+      "name": {
+        "ar": "ميزارا",
+        "en": "MIZARA"
+      },
+      "desc": {
+        "ar": "تسعير الحلويات والمعجنات: التكلفة والسعر والربح لكل منتج.",
+        "en": "Pricing for dessert makers: cost, price and profit for every item."
+      },
       "url": "https://collecthub.github.io/mizara/",
       "icon": "https://collecthub.github.io/mizara/icon-192.png"
     },
     {
       "id": "rasma",
       "type": "web",
-      "name": { "ar": "رسمة", "en": "RASMA" },
-      "desc": { "ar": "تسعير المستقلين: سعر الساعة وثلاث باقات وعرض سعر جاهز.", "en": "Pricing for freelancers: hourly rate, three packages and a ready quote." },
+      "name": {
+        "ar": "رسمة",
+        "en": "RASMA"
+      },
+      "desc": {
+        "ar": "تسعير المستقلين: سعر الساعة وثلاث باقات وعرض سعر جاهز.",
+        "en": "Pricing for freelancers: hourly rate, three packages and a ready quote."
+      },
       "url": "https://collecthub.github.io/rasma/",
       "icon": "https://collecthub.github.io/rasma/icon-192.png"
     },
     {
       "id": "tempo",
       "type": "web",
-      "name": { "ar": "تمبو", "en": "TEMPO" },
-      "desc": { "ar": "مؤقت تمارين مجاني بفترات العمل والراحة، مع ساعة إيقاف.", "en": "A free interval workout timer with a stopwatch." },
+      "name": {
+        "ar": "تمبو",
+        "en": "TEMPO"
+      },
+      "desc": {
+        "ar": "مؤقت تمارين مجاني بفترات العمل والراحة، مع ساعة إيقاف.",
+        "en": "A free interval workout timer with a stopwatch."
+      },
       "url": "https://tempo.collect-hub-all.workers.dev/",
-      "icon": "https://tempo.collect-hub-all.workers.dev/icon-192.png"
+      "icon": "https://tempo.collect-hub-all.workers.dev/icon-192.png",
+      "free": true
     },
     {
       "id": "collect-smart-timer",
       "type": "web",
-      "name": { "ar": "مؤقت كوليكت الذكي", "en": "Collect Smart Timer" },
-      "desc": { "ar": "مؤقت تركيز مجاني يساعدك على إنجاز مهامك.", "en": "A free focus timer to help you get your tasks done." },
+      "name": {
+        "ar": "مؤقت كوليكت الذكي",
+        "en": "Collect Smart Timer"
+      },
+      "desc": {
+        "ar": "مؤقت تركيز مجاني يساعدك على إنجاز مهامك.",
+        "en": "A free focus timer to help you get your tasks done."
+      },
       "url": "https://collect-smart-timer.pages.dev/",
-      "icon": "https://collect-smart-timer.pages.dev/assets/images/logo-mark.png"
+      "icon": "https://collect-smart-timer.pages.dev/assets/images/logo-mark.png",
+      "free": true
     }
   ]
 }
