@@ -54,8 +54,8 @@
         "ar": "مؤقت تركيز مجاني يساعدك على إنجاز مهامك.",
         "en": "A free focus timer to help you get your tasks done."
       },
-      "url": "https://collect-smart-timer.pages.dev/",
-      "icon": "https://collect-smart-timer.pages.dev/assets/images/logo-mark.png",
+      "url": "https://collect-smart-timer.collect-hub-all.workers.dev/",
+      "icon": "https://collect-smart-timer.collect-hub-all.workers.dev/assets/images/logo-mark.png",
       "free": true
     }
   ]
