@@ -1,34 +1,6 @@
 {
   "products": [
     {
-      "id": "mizara",
-      "type": "web",
-      "name": {
-        "ar": "ميزارا",
-        "en": "MIZARA"
-      },
-      "desc": {
-        "ar": "تسعير الحلويات والمعجنات: التكلفة والسعر والربح لكل منتج.",
-        "en": "Pricing for dessert makers: cost, price and profit for every item."
-      },
-      "url": "https://collecthub.github.io/mizara/",
-      "icon": "https://collecthub.github.io/mizara/icon-192.png"
-    },
-    {
-      "id": "rasma",
-      "type": "web",
-      "name": {
-        "ar": "رسمة",
-        "en": "RASMA"
-      },
-      "desc": {
-        "ar": "تسعير المستقلين: سعر الساعة وثلاث باقات وعرض سعر جاهز.",
-        "en": "Pricing for freelancers: hourly rate, three packages and a ready quote."
-      },
-      "url": "https://collecthub.github.io/rasma/",
-      "icon": "https://collecthub.github.io/rasma/icon-192.png"
-    },
-    {
       "id": "tempo",
       "type": "web",
       "name": {
@@ -57,6 +29,34 @@
       "url": "https://collect-smart-timer.collect-hub-all.workers.dev/",
       "icon": "https://collect-smart-timer.collect-hub-all.workers.dev/assets/images/logo-mark.png",
       "free": true
+    },
+    {
+      "id": "mizara",
+      "type": "web",
+      "name": {
+        "ar": "ميزارا",
+        "en": "MIZARA"
+      },
+      "desc": {
+        "ar": "تسعير الحلويات والمعجنات: التكلفة والسعر والربح لكل منتج.",
+        "en": "Pricing for dessert makers: cost, price and profit for every item."
+      },
+      "url": "https://collecthub.github.io/mizara/",
+      "icon": "https://collecthub.github.io/mizara/icon-192.png"
+    },
+    {
+      "id": "rasma",
+      "type": "web",
+      "name": {
+        "ar": "رسمة",
+        "en": "RASMA"
+      },
+      "desc": {
+        "ar": "تسعير المستقلين: سعر الساعة وثلاث باقات وعرض سعر جاهز.",
+        "en": "Pricing for freelancers: hourly rate, three packages and a ready quote."
+      },
+      "url": "https://collecthub.github.io/rasma/",
+      "icon": "https://collecthub.github.io/rasma/icon-192.png"
     }
   ]
 }
