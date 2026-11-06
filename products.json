@@ -31,6 +31,21 @@
       "free": true
     },
     {
+      "id": "step",
+      "type": "web",
+      "name": {
+        "ar": "خطوة",
+        "en": "STEP"
+      },
+      "desc": {
+        "ar": "مساحة مجانية لتنظيم الدراسة والمهام والامتحانات والتركيز.",
+        "en": "A free space to organize your study, tasks, exams and focus."
+      },
+      "url": "https://step.collect-hub-all.workers.dev/",
+      "icon": "https://step.collect-hub-all.workers.dev/icon-192.png",
+      "free": true
+    },
+    {
       "id": "mizara",
       "type": "web",
       "name": {
