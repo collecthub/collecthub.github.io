@@ -57,8 +57,8 @@
         "ar": "احمِ ما تبقّى من دخلك بعد حجز التزاماتك وأقساطك ومدخراتك محلياً دون اتصال.",
         "en": "Protect what remains of your income after reserving bills, debts, and savings offline."
       },
-      "url": "https://collecthub.github.io/baqi/",
-      "icon": "https://collecthub.github.io/baqi/icon-192.png"
+      "url": "https://baqi.collect-hub-all.workers.dev/",
+      "icon": "https://baqi.collect-hub-all.workers.dev/icon-192.png"
     },
     {
       "id": "mizara",
