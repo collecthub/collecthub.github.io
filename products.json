@@ -46,6 +46,23 @@
       "free": true
     },
     {
+  "products": [
+    {
+      "id": "baqi",
+      "type": "web",
+      "free": true,
+      "name": {
+        "ar": "بَاقِي",
+        "en": "BAQI"
+      },
+      "desc": {
+        "ar": "احمِ ما تبقّى من دخلك بعد حجز التزاماتك وأقساطك ومدخراتك محلياً دون اتصال.",
+        "en": "Protect what remains of your income after reserving bills, debts, and savings offline."
+      },
+      "url": "https://collecthub.github.io/baqi/",
+      "icon": "https://collecthub.github.io/baqi/icon-192.png"
+    },
+    {
       "id": "mizara",
       "type": "web",
       "name": {
