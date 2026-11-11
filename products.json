@@ -12,7 +12,7 @@
         "en": "A free interval workout timer with a stopwatch."
       },
       "url": "https://tempo.collect-hub-all.workers.dev/",
-      "icon": "https://tempo.collect-hub-all.workers.dev/icon-192.png",
+      "icon": "https://tempo.collect-hub-all.workers.dev/logo.png",
       "free": true
     },
     {
@@ -42,7 +42,7 @@
         "en": "A free space to organize your study, tasks, exams and focus."
       },
       "url": "https://step.collect-hub-all.workers.dev/",
-      "icon": "https://step.collect-hub-all.workers.dev/icon-192.png",
+      "icon": "https://step.collect-hub-all.workers.dev/icon-maskable-512.png",
       "free": true
     },
     {
@@ -58,7 +58,7 @@
         "en": "Protect what remains of your income after reserving bills, debts, and savings offline."
       },
       "url": "https://baqi.collect-hub-all.workers.dev/",
-      "icon": "https://baqi.collect-hub-all.workers.dev/icon-192.png"
+      "icon": "https://baqi.collect-hub-all.workers.dev/logo-mark.png"
     },
     {
       "id": "mizara",
@@ -72,7 +72,7 @@
         "en": "Pricing for dessert makers: cost, price and profit for every item."
       },
       "url": "https://collecthub.github.io/mizara/",
-      "icon": "https://collecthub.github.io/mizara/icon-192.png"
+      "icon": "https://collecthub.github.io/mizara/mark.png"
     },
     {
       "id": "rasma",
@@ -86,7 +86,7 @@
         "en": "Pricing for freelancers: hourly rate, three packages and a ready quote."
       },
       "url": "https://collecthub.github.io/rasma/",
-      "icon": "https://collecthub.github.io/rasma/icon-192.png"
+      "icon": "https://collecthub.github.io/rasma/rasma-logo-mark.png"
     }
   ]
 }
