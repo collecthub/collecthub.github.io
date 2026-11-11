@@ -87,6 +87,21 @@
       },
       "url": "https://collecthub.github.io/rasma/",
       "icon": "https://collecthub.github.io/rasma/icon-192.png"
+    },
+    {
+      "id": "splitflow",
+      "type": "web",
+      "name": {
+        "ar": "سبليت فلو",
+        "en": "SPLITFLOW"
+      },
+      "desc": {
+        "ar": "تنظيم التدفق النقدي للمستقلين: وزّع دخلك تلقائيًا بين التشغيل والادخار والضرائب والراتب، مع تقارير مالية.",
+        "en": "Cash flow management for freelancers: automatically split income into operating costs, savings, taxes and salary, with financial reports."
+      },
+      "url": "https://splitflow.collect-hub-all.workers.dev/",
+      "icon": "https://splitflow.collect-hub-all.workers.dev/icon-192.png",
+      "free": false
     }
   ]
 }
