@@ -19,8 +19,8 @@
       "id": "collect-smart-timer",
       "type": "web",
       "name": {
-        "ar": "مؤقت كوليكت الذكي",
-        "en": "Collect Smart Timer"
+        "ar": "جلسة",
+        "en": "JALSA"
       },
       "desc": {
         "ar": "مؤقت تركيز مجاني يساعدك على إنجاز مهامك.",
@@ -100,8 +100,7 @@
         "en": "Cash flow management for freelancers: automatically split income into operating costs, savings, taxes and salary, with financial reports."
       },
       "url": "https://splitflow.collect-hub-all.workers.dev/",
-      "icon": "https://splitflow.collect-hub-all.workers.dev/icon-192.png",
-      "free": false
+      "icon": "https://splitflow.collect-hub-all.workers.dev/icon-192.png"
     }
   ]
 }
