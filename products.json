@@ -26,8 +26,8 @@
         "ar": "مؤقت تركيز مجاني يساعدك على إنجاز مهامك.",
         "en": "A free focus timer to help you get your tasks done."
       },
-      "url": "https://collect-smart-timer.collect-hub-all.workers.dev/",
-      "icon": "https://collect-smart-timer.collect-hub-all.workers.dev/assets/images/app-icon-192.png",
+      "url": "https://jalsa.collect-hub-all.workers.dev/",
+      "icon": "https://jalsa.collect-hub-all.workers.dev/assets/images/app-icon-192.png",
       "free": true
     },
     {
@@ -54,7 +54,7 @@
         "en": "BAQI"
       },
       "desc": {
-        "ar": "احمِ ما تبقّى من دخلك بعد حجز التزاماتك وأقساطك ومدخراتك محلياً دون اتصال.",
+        "ar": "احمِ ما تبقّى من دخلك بعد حجز التزاماتك وأقساطك ومدخراتك محليًا دون اتصال.",
         "en": "Protect what remains of your income after reserving bills, debts, and savings offline."
       },
       "url": "https://baqi.collect-hub-all.workers.dev/",
